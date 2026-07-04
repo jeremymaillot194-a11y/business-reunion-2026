@@ -23,7 +23,7 @@
 - Support : un seul humain gère 30-50 clients grâce aux agents de monitoring.
 - Vente : démo « avant/après » générée par IA avec les vraies données du prospect (son propre site refait) envoyée AVANT le premier rendez-vous — taux de réponse ×3.
 
-**Stratégie de lancement.** Mois 1 : 3 clients pilotes gratuits 30 jours (témoignages vidéo) dans 3 secteurs différents. Mois 2-3 : prospection directe 300 TPE, présence aux marchés forains/réseaux d'entrepreneurs (CPME, clubs d'affaires locaux). Prix : pack Essentiel 89 €/mois, pack Pro 189 €/mois, pack Premium 349 €/mois + frais d'installation 290-690 €.
+**Stratégie de lancement.** Mois 1 : 3 clients pilotes gratuits 30 jours (témoignages vidéo) dans 3 secteurs différents. Mois 2-3 : prospection directe 300 TPE — **réalisme culturel : à La Réunion, on signe en face-à-face et par bouche-à-oreille, pas par cold e-mail**. L'IA prépare le terrain (ciblage, démo personnalisée envoyée avant le RDV), mais la vente se conclut autour d'un café, en créole quand il faut, via les réseaux qui comptent (CPME, clubs d'affaires, marchés forains, la famille étendue). Et on ne vend jamais « de l'IA » — on vend « plus jamais un appel manqué » : le mot IA fait fuir la moitié des patrons de TPE. Prix : pack Essentiel 89 €/mois, pack Pro 189 €/mois, pack Premium 349 €/mois + frais d'installation 290-690 €.
 
 **Prévisionnel réaliste.**
 | | Année 1 | Année 2 | Année 3 |
@@ -69,9 +69,16 @@
 
 ---
 
-## Idée 3 — « Zen Péi » : pratique psycho/bien-être hybride (cabinet partagé + téléconsultation + B2B)
+## Idée 3 — « Grandir Péi » : pratique psycho enfance/parentalité (les payeurs réels, pas les payeurs rêvés)
 
-**Description.** Trois étages de revenus : (a) consultations individuelles en cabinet partagé (location à la demi-journée) + téléconsultation vers toute la francophonie ; (b) interventions B2B : prévention risques psychosociaux, ateliers gestion du stress pour entreprises et collectivités (la santé mentale est priorité nationale 2026 → budgets QVT débloqués) ; (c) groupes/ateliers grand public le samedi. Si le titre de psychologue n'est pas utilisable immédiatement (stage M2 à valider), démarrage en positionnement « formateur prévention & bien-être » sans usage du titre.
+> Révisée (itération 3) : profil = M2 psychologie du développement (Bordeaux), et réalisme financier du secteur enfance — qui ne paie PAS comme les entreprises.
+
+**Description.** Trois étages de revenus, chacun adossé à un payeur réellement solvable à La Réunion :
+- **(a) Analyses de pratiques professionnelles (APP) pour micro-crèches et EAJE** : c'est une obligation réglementaire (arrêté du 23 septembre 2021 — un minimum d'heures d'analyse de pratiques par professionnel d'accueil) → chaque structure DOIT acheter ces séances à un intervenant qualifié, psychologue notamment. Tarif marché : 120-220 €/séance, récurrent toute l'année. Le parc de micro-crèches réunionnais est en croissance : c'est LE B2B solvable du secteur. **Les écoles publiques, elles, ne sont pas un marché** : l'Éducation nationale recrute des PsyEN, elle n'achète pas de libéral — c'est le concours qui y donne accès, pas l'entreprise.
+- **(b) Consultations et bilans** : consultations enfant/famille à 50-60 € — le conventionnement « Mon soutien psy » (séances remboursées) solvabilise les familles modestes, décisif dans une île où ~36 % de la population vit sous le seuil de pauvreté ; bilans psychométriques à 300-400 € pour les familles CSP+ (ouest et nord de l'île) — le matériel de test coûte 1 500-2 000 € par outil : il n'est PAS dans le budget initial, il s'achète avec les premières recettes d'APP.
+- **(c) Ateliers parentalité financés par la CAF** (appels à projets REAAP) via des associations partenaires : on ne facture pas les parents, on facture le dispositif. Tarifs modestes (300-500 €/intervention), paiements lents (60-90 jours), mais volume régulier et implantation territoriale — jamais plus de 30 % du CA sur ces financements publics.
+
+Si le titre de psychologue n'est pas utilisable immédiatement (stage M2 à valider + ADELI/RPPS), démarrage par les APP et ateliers en positionnement « intervenant petite enfance/parentalité » sans usage du titre.
 
 **Budget (total : 3 100 €)**
 | Poste | € |
@@ -81,25 +88,29 @@
 | Matériel visio (micro, lumière, webcam) | 300 |
 | Supports d'ateliers, RC pro, ADELI/RPPS | 600 |
 
-**Optimisation IA concrète.** Prise de RDV, rappels et facturation 100 % automatisés ; supports d'ateliers B2B générés/adaptés par IA à chaque secteur client ; SEO local (« psychologue Saint-Pierre », « gestion stress Réunion ») avec contenu de blog assisté IA ; synthèses administratives assistées (⚠️ jamais de données de patients dans des IA cloud non conformes — dictaphone + traitement local uniquement, RGPD santé strict).
+**Optimisation IA concrète.** Prise de RDV, rappels et facturation 100 % automatisés ; recensement automatisé des micro-crèches de l'île (annuaires CAF/PMI) et suivi du pipeline APP ; supports d'ateliers parentalité adaptés par IA à chaque public ; SEO local (« psychologue enfant Saint-Pierre », « bilan enfant Réunion ») avec contenu de blog assisté IA ; synthèses administratives assistées (⚠️ jamais de données de patients dans des IA cloud non conformes — dictaphone + traitement local uniquement, RGPD santé strict).
 
-**Stratégie de lancement.** Référencement Doctolib + Google Business dès le mois 1 (les créneaux se remplissent par la pénurie locale) ; 2 conférences gratuites en entreprise/mairie pour amorcer le B2B ; partenariats médecins généralistes des environs.
+**Stratégie de lancement.** Tournée physique des micro-crèches (l'APP se vend en face-à-face, pas par e-mail) + référencement Doctolib/Google Business dès le mois 1 ; contact des associations parentalité déjà financées REAAP pour devenir leur intervenant ; partenariats médecins généralistes et PMI.
 
-**Prévisionnel réaliste** (en activité 60-70 % d'un temps plein, tarif 55-60 €/consultation, 900-1 500 €/journée B2B).
+**Prévisionnel réaliste** (en activité 60-70 % d'un temps plein ; APP 120-220 €/séance, consultation 50-60 €, bilan 300-400 €).
 | | Année 1 | Année 2 | Année 3 |
 |---|---|---|---|
-| CA | 22 000 € | 42 000 € | 60 000 € |
+| CA | 15 000 € | 32 000 € | 45 000 € |
 | Marge nette | ~75 % | ~75 % | ~70 % |
 
-**Risques & mitigation.** Plafond de verre = temps disponible → basculer progressivement le B2C vers le B2B et les groupes (meilleur €/heure) ; réglementation du titre → vérification ADELI avant toute communication ; conflit avec un futur concours de la fonction publique → le libéral reste compatible et peut être mis en sommeil.
+**Risques & mitigation.** Plafond de verre = temps disponible → prioriser APP et groupes (meilleur €/heure) sur le B2C sec ; paiements publics lents → part CAF/collectivités plafonnée à 30 % du CA ; pouvoir d'achat local limité → conventionnement « Mon soutien psy » + téléconsultation vers la métropole (décalage horaire favorable : les matinées réunionnaises libres) ; réglementation du titre → vérification ADELI avant toute communication ; concours PsyEN ensuite → le libéral peut être mis en sommeil (et l'expérience de terrain nourrit le concours).
 
-**Compatibilité couple + musique.** C'est SON expertise (M2), crédibilité immédiate. Attention : c'est le business le moins scalable (temps contre argent) — il se transforme en machine scalable via l'idée 5. **Notes : cash 4 · scalabilité 2 · IA 3 · couple 3 · risque 5 → 17/25**
+**Compatibilité couple + musique.** C'est SON expertise réelle (psychologie du développement = pile le besoin d'une des populations les plus jeunes de France). Elle connaît le milieu territorial de l'intérieur : un vrai atout pour les circuits CAF/communes. Le business le moins scalable (temps contre argent) — il se transforme en machine scalable via l'idée 5. **Notes : cash 4 · scalabilité 2 · IA 3 · couple 4 · risque 5 → 18/25**
 
 ---
 
 ## Idée 4 — « Studio Kréol » : marque musicale moderne séga/maloya × IA (le rêve, structuré en business)
 
-**Description.** Lancer la carrière de chanteur comme une startup média : home-studio, un single toutes les 6 semaines, clips et visuels assistés IA, distribution mondiale (DistroKid/TuneCore), contenu quotidien TikTok/Reels/Shorts surfant sur l'attrait prouvé du séga/maloya modernisé (la vague « Séga IA » a validé l'appétit du marché — un VRAI chanteur avec production IA se différencie immédiatement du tout-IA). Monétisation immédiate par le live : mariages, hôtels (marché touristique), événements d'entreprise — puis streaming, sync (licences TV/pub), fan-funding.
+**Description.** Lancer la carrière de chanteur comme une startup média : home-studio, un single toutes les 6 semaines, distribution mondiale (DistroKid/TuneCore), contenu quotidien TikTok/Reels/Shorts. Monétisation immédiate par le live : mariages, hôtels (marché touristique), kabars et événements — puis streaming, sync (licences TV/pub), fan-funding.
+
+⚠️ **Réalisme culturel (itération 3) — l'IA reste en coulisses, toujours.** Le maloya est un patrimoine UNESCO et un milieu de transmission où la vague « Séga IA » est largement perçue comme du contenu low-cost qui spolie les artistes. Elle a prouvé l'appétit du public pour le genre, mais un chanteur étiqueté « IA » se ferme les kabars, les programmateurs et une partie du public. Doctrine stricte : **sur scène et à l'image, tout est authentique** — vraie voix, vrais musiciens quand c'est possible, clips tournés dans l'île (le meilleur décor de France est gratuit), zéro composition IA revendiquée, zéro clip génératif. L'IA travaille uniquement là où personne ne la voit : admin, booking, montage, sous-titres, publicité, prospection. On ne communique jamais dessus.
+
+**Réalisme du métier.** (1) Le milieu fonctionne à la réputation et au réseau, en créole : l'entrée se fait par les kabars, les chœurs, les premières parties — AVANT de monétiser. (2) Les cachets réels : hôtels 300-600 €, mariages 400-800 €, concurrence locale dense. (3) Juridique : l'artiste du spectacle est **présumé salarié** — les organisateurs paient les cachets via le **GUSO**, pas via la micro-entreprise ; les cachets cumulés peuvent ouvrir à terme le régime de l'intermittence. La micro-entreprise ne sert qu'aux revenus non-artistiques (contenu de marque, etc.).
 
 **Budget (total : 3 300 €)**
 | Poste | € |
@@ -111,27 +122,27 @@
 | Sono live compacte d'occasion (mariages/hôtels) | 1 300 |
 | Clips : tournage smartphone + montage IA + 2 objectifs | 500 |
 
-**Optimisation IA concrète.** Composition/arrangement assistés (maquettes en heures, pas en semaines) ; mixage/mastering IA (qualité release à 0 € de studio) ; clips : génération de plans B-roll IA + montage automatisé (un clip à 150 € au lieu de 3 000 €) ; sous-titres/traductions automatiques pour toucher Maurice, Madagascar, Antilles, métropole ; community management semi-automatisé (réponses, programmation, analyse des heures de pointe) ; repérage automatisé des appels d'offres événementiels et des demandes de mariage (alertes scrapées).
+**Optimisation IA concrète (invisible du public).** Mixage/mastering assistés (qualité release sans studio — pratique déjà banalisée et non stigmatisée chez les ingés son) ; montage vidéo automatisé des rushes RÉELS tournés au smartphone ; sous-titres/traductions automatiques pour toucher Maurice, Madagascar, Antilles, métropole ; community management semi-automatisé (réponses, programmation, analyse des heures de pointe) ; repérage automatisé des demandes de mariage/événements (alertes) ; dossiers artistiques et devis générés. Jamais de composition ni de voix IA, jamais de visuel génératif en façade.
 
-**Stratégie de lancement.** Pilier économique = le live : 2 prestations mariage/hôtel par mois à 400-800 € couvrent tous les coûts. Pilier croissance = le contenu : 1 extrait chanté/jour pendant 90 jours (routine industrialisée IA), duos/reprises de standards péi pour capter la recherche. Objectif année 1 : 10 000 abonnés cumulés + 6 singles.
+**Stratégie de lancement.** Phase d'intégration d'abord (M1-M4) : kabars, scènes ouvertes, chœurs, premières parties — se faire adopter par le milieu avant de vendre. Pilier économique ensuite = le live : 1-2 prestations mariage/hôtel par mois à 300-800 € via GUSO. Pilier croissance = le contenu : 1 extrait chanté/jour pendant 90 jours (tournage réel, industrialisation du montage seulement), duos/reprises de standards péi pour capter la recherche. Objectif année 1 : 10 000 abonnés cumulés + 4-6 singles.
 
-**Prévisionnel réaliste** (honnêteté : le streaming ne paie presque rien au début).
+**Prévisionnel réaliste** (honnêteté : le streaming ne paie presque rien au début, et l'intégration au milieu prend 3-4 mois).
 | | Année 1 | Année 2 | Année 3 |
 |---|---|---|---|
-| Live (cachets) | 6 000 € | 14 000 € | 25 000 € |
+| Live (cachets GUSO) | 4 000 € | 11 500 € | 25 000 € |
 | Streaming + sync + fan-funding | 500 € | 2 500 € | 8 000 € |
-| **CA total** | **6 500 €** | **16 500 €** | **33 000 €** |
+| **CA total** | **4 500 €** | **14 000 €** | **33 000 €** |
 | Marge nette | ~80 % | ~75 % | ~70 % |
 
-**Risques & mitigation.** Revenus lents et aléatoires → ne JAMAIS en faire la seule source de revenus avant l'année 3 ; saturation contenu IA → différenciation « vraie voix, vraie histoire, vrai terroir » assumée en signature de marque ; épuisement créatif → banque de 20 contenus d'avance générée chaque dimanche.
+**Risques & mitigation.** Revenus lents et aléatoires → ne JAMAIS en faire la seule source de revenus avant l'année 3 ; rejet culturel de l'IA → doctrine « IA en coulisses » stricte, jamais de communication dessus ; réputation à construire → intégration au milieu avant monétisation, humilité sur les reprises ; épuisement créatif → banque de 20 contenus d'avance tournée chaque dimanche.
 
 **Compatibilité couple + musique.** C'est le rêve lui-même. Elle : manageuse/booking (activité accessoire simple). **Notes : cash 2 · scalabilité 4 · IA 5 · couple 5 · risque 3 → 19/25**
 
 ---
 
-## Idée 5 — « Psychologie Pratique OI » : média + infoproduits psycho-bien-être en ligne
+## Idée 5 — « Grandir Ansanm » : média + infoproduits parentalité/développement de l'enfant
 
-**Description.** Chaîne YouTube + TikTok de vulgarisation psychologique avec un angle océan Indien/créole unique (personne ne l'occupe), déclinée en produits numériques : mini-programmes à 27-97 € (sommeil, anxiété, parentalité, confiance), ateliers en ligne collectifs, puis un programme signature à 297-490 €. Zéro stock, marge quasi totale, marché = toute la francophonie.
+**Description.** Chaîne YouTube + TikTok de vulgarisation sur le développement de l'enfant et la parentalité — pile la spécialité du M2 (psychologie du développement) et l'une des niches qui vend le mieux en francophonie (sommeil de l'enfant, émotions, écrans, apprentissages), aujourd'hui dominée par des coachs sans diplôme face auxquels un vrai psychologue du développement est immédiatement plus crédible. Angle océan Indien/créole unique. Déclinaison en produits numériques : mini-programmes à 27-97 €, ateliers en ligne collectifs, puis un programme signature à 297-490 €. Zéro stock, marge quasi totale, marché = toute la francophonie (le pouvoir d'achat limité local n'est pas un plafond : les clients sont surtout en métropole).
 
 **Budget (total : 1 400 €)**
 | Poste | € |
@@ -221,9 +232,11 @@
 | 1 | Systèmes Péi (agence IA TPE) | 2 400 € | 18 k€ | 110 k€ | 60 % | **23** |
 | 6 | Péi Studio (contenu UGC) | 2 000 € | 14 k€ | 50 k€ | 70 % | 20 |
 | 2 | Lokal.re (e-commerce péi export) | 9 800 € | 38 k€ | 275 k€ | 25 % | 19 |
-| 4 | Studio Kréol (musique × IA) | 3 300 € | 6,5 k€ | 33 k€ | 70 % | 19 |
-| 5 | Psychologie Pratique OI (infoproduits) | 1 400 € | 4 k€ | 70 k€ | 85 % | 19 |
-| 3 | Zen Péi (pratique psy hybride) | 3 100 € | 22 k€ | 60 k€ | 70 % | 17 |
+| 4 | Studio Kréol (musique, IA en coulisses) | 3 300 € | 4,5 k€ | 33 k€ | 70 % | 19 |
+| 5 | Grandir Ansanm (infoproduits parentalité) | 1 400 € | 4 k€ | 70 k€ | 85 % | 19 |
+| 3 | Grandir Péi (psy enfance/parentalité) | 3 100 € | 15 k€ | 45 k€ | 70 % | 18 |
 | 7 | OI Import Sélect (import niche) | 12 500 € | 30 k€ | 95 k€ | 20 % | 14 |
 
-**Critique itération 1 → 2 (appliquée ci-dessus)** : les premières versions surestimaient le streaming musical (ramené à 500 € an 1), sous-estimaient l'octroi de mer sur l'idée 7 (budget fret porté à 2 600 €) et ignoraient la contrainte de cumul d'activités de Madame (désormais intégrée partout). L'idée « import généraliste » a été éliminée dès l'analyse marché car indéfendable à 15 k€.
+**Critique itération 1 → 2 (appliquée)** : les premières versions surestimaient le streaming musical (ramené à 500 € an 1), sous-estimaient l'octroi de mer sur l'idée 7 (budget fret porté à 2 600 €) et ignoraient la contrainte de cumul d'activités de Madame (désormais intégrée partout). L'idée « import généraliste » a été éliminée dès l'analyse marché car indéfendable à 15 k€.
+
+**Critique itération 2 → 3 (réalisme culturel et financier, appliquée)** : (1) le profil réel est un M2 psychologie du développement, pas psycho du travail → pivot du pilier psy vers l'enfance/parentalité avec les payeurs réellement solvables (APP micro-crèches réglementaires, « Mon soutien psy », CAF/REAAP) et abandon des tarifs fantasmés « 900-1 500 €/jour en entreprise » : le secteur de l'enfance ne paie pas comme le B2B corporate — CA an 1 ramené de 22 à 15 k€ ; (2) l'IA n'est PAS socialement acceptée dans la musique péi (le « Séga IA » est perçu comme une spoliation) → doctrine « IA en coulisses uniquement », entrée par les kabars avant monétisation, cachets via GUSO, CA an 1 ramené de 6,5 à 4,5 k€ ; (3) la vente aux TPE se conclut en face-à-face et en réseau, pas par cold e-mail — et on vend le résultat, jamais le mot « IA ». Détail complet : fichier 06.

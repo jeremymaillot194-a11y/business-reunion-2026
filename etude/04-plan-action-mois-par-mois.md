@@ -13,22 +13,23 @@
 ## Année 1 — Construire les moteurs
 
 ### Mois 1 — Fondations
-- **Admin** : création micro-entreprise de Lui (guichet unique INPI, gratuit) avec activités : « conseil en systèmes numériques, services administratifs » + « arts du spectacle » (ou double micro-activité BNC/BIC selon conseil CCI). ACRE + exonération DOM activées. Assurance RC pro (~30 €/mois).
+- **Admin** : création micro-entreprise de Lui (guichet unique INPI, gratuit) pour l'agence et l'activité psy libérale. ⚠️ Pas pour les cachets de chant : l'artiste du spectacle est présumé salarié, les organisateurs paient via le **GUSO** — s'y inscrire, c'est gratuit et c'est eux qui déclarent. ACRE + exonération DOM activées. Assurance RC pro (~30 €/mois).
 - **Agence** : construire les 3 packs, le site vitrine (une journée avec IA), 3 démos sectorielles (resto, institut, artisan). Lister 300 prospects TPE via Google Maps scraping.
-- **Musique** : achat micro + interface (900 €). Routine : 1 h de chant/jour, enregistrement du single 1.
+- **Musique** : achat micro + interface (900 €). Routine : 1 h de chant/jour, enregistrement du single 1. Surtout : commencer l'intégration au milieu — kabars, scènes ouvertes, rencontres. On se fait adopter avant de vendre.
+- **Psy** : recensement des micro-crèches de l'île (annuaires CAF/PMI) → liste de prospection APP ; premières visites sur le terrain.
 - **IA** : installer la stack (fichier 05) : Claude/GPT, n8n, CapCut, cal.com, Notion. Créer les 10 templates de prompts métier.
 - **✅ Sortie de mois** : entreprise créée, 3 démos prêtes, 20 premiers prospects contactés.
 
 ### Mois 2 — Premiers clients
 - **Agence** : 3 pilotes gratuits 30 jours signés (contrat : témoignage vidéo obligatoire). Prospection 15 contacts/jour (séquences e-mail + WhatsApp générées IA, personnalisées automatiquement).
-- **Psy** : référencement Doctolib/Google Business, location cabinet partagé 1 demi-journée/semaine pour commencer. Premières consultations.
+- **Psy** : référencement Doctolib/Google Business, conventionnement « Mon soutien psy » si titre utilisable, location cabinet partagé 1 demi-journée/semaine. Premières consultations + premières séances d'APP en micro-crèche.
 - **Musique** : single 1 finalisé (mix/master IA), distribution DistroKid, SACEM. Début du défi « 90 jours de contenu » (1 extrait/jour, batch tourné le dimanche, monté par IA en semaine).
 - **✅ Sortie** : 3 pilotes actifs, 5-10 consultations réalisées, single 1 en ligne.
 
 ### Mois 3 — Conversion
 - **Agence** : conversion des pilotes en payant + 5 nouveaux clients (objectif 8 clients payants, ~900 €/mois récurrents). Témoignages vidéo publiés.
 - **Musique** : premiers démarchages mariages/hôtels avec vidéo de démo live (sono d'occasion achetée si 1er cachet signé, sinon location ponctuelle).
-- **Psy** : montée à 2 demi-journées. Première conférence gratuite en entreprise (amorce B2B).
+- **Psy** : montée à 2 demi-journées. Contact des associations parentalité financées REAAP pour devenir leur intervenant (amorce du volet CAF).
 - **✅ Sortie** : ~1 500 €/mois de revenus récurrents cumulés. Point d'étape aides (TAJ/ADEN déposés).
 
 ### Mois 4-5 — Régime de croisière n°1
@@ -39,7 +40,7 @@
 
 ### Mois 6-7 — Validation e-commerce par précommandes
 - **Lokal.re** : page de précommande (Shopify), 30 jours de contenu de marque (tourné dans les hauts, musique de Lui en habillage). Cible : groupes Facebook diaspora + pub test 500 €. **Règle : 50 précommandes sinon on itère l'offre sans acheter de stock.**
-- **Infoproduits** : lancement discret de la chaîne « Psychologie Pratique OI » (2 vidéos/semaine, scripts IA incarnés). Aimant à e-mails : auto-test généré IA.
+- **Infoproduits** : lancement discret de la chaîne « Grandir Ansanm » (parentalité/développement de l'enfant, 2 vidéos/semaine, scripts assistés IA mais incarnés). Aimant à e-mails : auto-test parental généré IA.
 - **✅ Sortie M7** : verdict précommandes. Agence : 18-20 clients.
 
 ### Mois 8-9 — Lancement Lokal.re
@@ -51,7 +52,7 @@
 - **Lokal.re** : offensive Noël (le pic de l'année pour les coffrets péi) : budget pub concentré ici, 30 variantes de créas IA/semaine, partenariats associations réunionnaises de métropole. Objectif : 400 commandes sur le trimestre.
 - **Agence** : gel de la prospection en décembre, upsell « pack contenu » aux clients existants.
 - **Musique** : saison des mariages + événements de fin d'année = 3-4 cachets/mois.
-- **✅ Bilan année 1 attendu** : ~44 000 € de CA consolidé, ~26 000 € nets, 3 moteurs allumés, audience 10-15 k abonnés cumulés.
+- **✅ Bilan année 1 attendu** : ~40 500 € de CA consolidé, ~23 000 € nets, 3 moteurs allumés, audience 10-15 k abonnés cumulés.
 
 ## Année 2 — Scaler ce qui marche (trimestres)
 
@@ -60,14 +61,14 @@
 - **T3** : infoproduits : premier programme payant (audience > 5 000 e-mails). Elle : si le foyer atteint ~4 000 €/mois nets récurrents hors salaire, décision posée : temps partiel + statut officiel dans l'entreprise (ou maintien sécurité).
 - **T4** : deuxième Noël Lokal.re (objectif ×3 vs année 1) ; agence à 40-45 clients ; captation d'un concert live complet pour la banque de contenu de l'année.
 
-**Objectif fin année 2 : ~158 000 € CA consolidé, ~75 000 € nets.**
+**Objectif fin année 2 : ~151 000 € CA consolidé, ~70 000 € nets.**
 
 ## Année 3 — Structurer (trimestres)
 
 - **T1** : société unique (holding simple ou SASU avec branches) ; comptable + juriste. Lokal.re : référencement B2B (comités d'entreprise, boutiques d'aéroport, épiceries fines métropole).
 - **T2** : agence : offre « agent IA vocal » (standard téléphonique IA) = montée en gamme à 500-900 €/mois ; l'équipe (2 personnes + IA) tourne sans Lui au quotidien.
 - **T3** : musique : avec 30 k€/an de revenus musicaux et une audience installée, Lui peut basculer 60 % de son temps sur la carrière artistique — le rêve devient la ligne principale de SON agenda, financé par le système.
-- **T4** : bilan 36 mois : CA consolidé cible ~358 k€, revenu net foyer ~150 k€/an, trois actifs revendables (portefeuille d'abonnements agence, marque e-commerce avec base clients, catalogue musical + audience).
+- **T4** : bilan 36 mois : CA consolidé cible ~348 k€, revenu net foyer ~145 k€/an, trois actifs revendables (portefeuille d'abonnements agence, marque e-commerce avec base clients, catalogue musical + audience).
 
 ## Tableaux de bord (à tenir chaque dimanche, 30 min, automatisés par IA)
 

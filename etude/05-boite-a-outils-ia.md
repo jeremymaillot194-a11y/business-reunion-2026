@@ -30,7 +30,7 @@
 ## 5.3 Règles d'usage IA (garde-fous)
 
 - **Santé** : aucune donnée patient dans un outil cloud grand public. Les notes cliniques restent locales. L'IA sert au marketing et à l'admin, jamais au diagnostic.
-- **Musique** : l'IA produit, l'humain chante. La voix et l'interprétation restent 100 % humaines — c'est le positionnement anti « Séga IA » qui fait la valeur de la marque. Vérifier les licences commerciales de chaque outil de génération.
+- **Musique** : l'IA reste en coulisses, toujours. Voix, interprétation, compositions revendiquées et images publiques : 100 % humaines et authentiques (le milieu du maloya perçoit le « Séga IA » comme une spoliation). L'IA se limite au mixage/mastering assisté, au montage des rushes réels, aux sous-titres, au booking et à l'admin — et on ne communique jamais dessus. Vérifier les licences commerciales de chaque outil.
 - **Contenu** : tout contenu généré est relu/incarné par un humain avant publication. La sanction des plateformes contre le contenu IA de masse est un risque réel : l'IA accélère, elle ne remplace pas le visage et la voix.
 - **Clients de l'agence** : transparence contractuelle sur ce qui est automatisé ; un humain reste joignable.
 - **RGPD** : registre des traitements dès le premier client ; mentions légales générées puis relues ; double opt-in sur toutes les listes.
